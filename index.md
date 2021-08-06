@@ -1,6 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="jITmj_4CzepAB82vecTdhKlQNpf2YmcPU1Iw4yq9i7U" />
-<head>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/olusutuyi/Insurance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -14,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# <meta name="google-site-verification" content="jITmj_4CzepAB82vecTdhKlQNpf2YmcPU1Iw4yq9i7U" />
 ## Header 2
 ### Header 3
 
